@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This application is a demo front-end ui of facebook React application. The application is currently under development with completion of navbar right header which can be found on the demo image below.
+
+### Demo Image
+<image src="./demo.png"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
